@@ -1,0 +1,51 @@
+2024-10-05 13:08:02,933 - INFO - Space Data Application started
+2024-10-05 13:08:27,745 - INFO - Space Data Application started
+2024-10-05 13:08:30,109 - INFO - User attempting to log in
+2024-10-05 13:09:01,628 - INFO - User logged in successfully: amu@gmail.com
+2024-10-05 13:09:07,262 - INFO - Fetching NEO data
+2024-10-05 13:09:16,418 - INFO - User logged out
+2024-10-05 13:09:18,404 - INFO - Space Data Application exited
+2024-10-05 13:11:58,821 - INFO - Space Data Application started
+2024-10-05 13:12:05,316 - INFO - User attempting to sign up
+2024-10-05 13:12:18,573 - WARNING - Invalid email format attempted: taj.1@gmail
+2024-10-05 13:12:39,851 - INFO - New user signed up: taj.1@gmail.com
+2024-10-05 13:12:42,718 - INFO - User attempting to log in
+2024-10-05 13:12:53,795 - INFO - User logged in successfully: taj.1@gmail.com
+2024-10-05 13:12:58,880 - INFO - Fetching NEO data
+2024-10-05 13:13:15,810 - INFO - Fetching SSD data for object: Mars
+2024-10-05 13:13:17,890 - WARNING - Unexpected data format received from the SSD API
+2024-10-05 13:13:38,873 - INFO - Fetching SSD data for object: mars
+2024-10-05 13:13:40,898 - ERROR - No internet connection
+2024-10-05 13:13:40,934 - ERROR - Failed to fetch SSD data
+2024-10-05 13:13:57,769 - INFO - Fetching SSD data for object: halley
+2024-10-05 13:14:03,351 - WARNING - Unexpected data format received from the SSD API
+2024-10-05 13:14:14,003 - INFO - Fetching SSD data for object: 433
+2024-10-05 13:14:30,136 - INFO - User logged out
+2024-10-05 13:14:32,057 - INFO - Space Data Application exited
+2024-10-05 13:23:10,931 - INFO - Space Data Application started
+2024-10-05 13:23:13,526 - INFO - User attempting to log in
+2024-10-05 13:23:26,528 - WARNING - Failed login attempt for email: taj.1@gmail.com
+2024-10-05 13:23:36,380 - INFO - User logged in successfully: taj.1@gmail.com
+2024-10-05 13:23:44,350 - INFO - Fetching SSD data for object: mars
+2024-10-05 13:23:49,033 - WARNING - Unexpected data format received from the SSD API
+2024-10-05 13:27:48,851 - INFO - Space Data Application started
+2024-10-05 13:28:01,759 - INFO - Program interrupted by user
+2024-10-05 13:28:07,752 - INFO - Space Data Application started
+2024-10-05 13:28:10,559 - INFO - User attempting to log in
+2024-10-05 13:28:19,204 - INFO - User logged in successfully: taj.1@gmail.com
+2024-10-05 13:28:26,330 - INFO - Fetching SSD data for object: mars
+2024-10-05 13:28:26,345 - ERROR - No internet connection
+2024-10-05 13:28:26,347 - WARNING - No data found for the object: mars
+2024-10-05 13:28:44,554 - INFO - Fetching SSD data for object: 433
+2024-10-05 13:28:44,557 - ERROR - No internet connection
+2024-10-05 13:28:44,558 - WARNING - No data found for the object: 433
+2024-10-05 13:30:07,712 - INFO - Fetching SSD data for object: mars
+2024-10-05 13:30:56,142 - INFO - User logged out
+2024-10-05 13:30:57,905 - INFO - User attempting to log in
+2024-10-05 13:31:09,664 - INFO - User logged in successfully: taj.1@gmail.com
+2024-10-05 13:31:16,313 - INFO - Fetching SSD data for object: mars
+2024-10-05 13:31:27,891 - INFO - Fetching SSD data for object: 433
+2024-10-05 13:31:29,371 - ERROR - Requested resource not found
+2024-10-05 13:31:29,374 - WARNING - No data found for the object: 433
+2024-10-05 13:31:42,570 - INFO - Fetching SSD data for object: halley
+2024-10-05 13:31:53,676 - INFO - Fetching SSD data for object: earth
